@@ -1,4 +1,4 @@
-# woofstock
+# Woofstock
 
 Website for Woofstock! A music festival supporting the Animal Protective Foundation.
 <br>[woofstock.netlify.app](https://woofstock.netlify.app/)
